@@ -1,0 +1,10 @@
+tim.c:121:6:HAL_TIM_PWM_MspInit	8	static
+tim.c:147:6:HAL_TIM_MspPostInit	32	static
+tim.c:31:6:MX_TIM1_Init	72	static
+tim.c:80:6:MX_TIM2_Init	48	static
+tim.c:193:6:HAL_TIM_PWM_MspDeInit	0	static
+tim.c:224:6:Beep_Start	0	static
+tim.c:230:6:Beep_Stop	0	static
+tim.c:238:9:isBeeping	0	static
+tim.c:247:6:RGB_On	0	static
+tim.c:256:6:RGB_Off	0	static
